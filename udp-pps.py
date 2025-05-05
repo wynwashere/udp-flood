@@ -78,4 +78,4 @@ if __name__ == '__main__':
     try:
         attack(ip, port, time, packet_size, threads)
     except KeyboardInterrupt:
-        print('Attack stopped.')')
+        print('Attack stopped.')
